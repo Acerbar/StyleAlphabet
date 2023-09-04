@@ -18,7 +18,7 @@
     }
     &__text{
         font-family: $Font-family_3;
-        font-size: calc(23px + 12 * ((100vw - 799.99px) / (1800 - 799.99)));
+        font-size: calc(20px + 12 * ((100vw - 375px) / (1800 - 375)));
         margin-top: 20px;
         }
     &__photo {
